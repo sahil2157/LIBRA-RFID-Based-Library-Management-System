@@ -220,7 +220,7 @@ rfid-library-dashboard/
 ├── server/
 │   ├── index.js
 │   ├── models.js
-│   └── .env                 # Never commit
+│   └── .env                 
 ├── src/
 │   ├── App.jsx
 │   ├── api.js
